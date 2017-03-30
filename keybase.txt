@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/stefanperson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stefanperson.com
+  * I am stefanperson (https://keybase.io/stefanperson) on keybase.
+  * I have a public key with fingerprint BBBE F1C1 3369 617C 4655  08D4 5135 DF1C 2A11 5793
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010169cb75e34fa3d4d09b161eeeba487c84ed6a8f1da27fa0664a43b32c22e188cf0a",
+            "fingerprint": "bbbef1c13369617c465508d45135df1c2a115793",
+            "host": "keybase.io",
+            "key_id": "5135df1c2a115793",
+            "kid": "010169cb75e34fa3d4d09b161eeeba487c84ed6a8f1da27fa0664a43b32c22e188cf0a",
+            "uid": "4292bbfad60373baca86e9d21d217000",
+            "username": "stefanperson"
+        },
+        "revoke": {
+            "sig_ids": [
+                "dbb74cd5c69f1bccdde9a754b2da08ba8c7d42b72cf293c7aee93da4573cb2a80f"
+            ]
+        },
+        "service": {
+            "hostname": "stefanperson.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490892246,
+    "expire_in": 157680000,
+    "prev": "52e11f661f866e1596fa1fceb63fa6e3ce8cc682e134b23ce613a1e6fd2ff74a",
+    "seqno": 45,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMJsAnicrVJdiFVVFL63nKQLQ4EPiQ6OnSKbnKazf84++1yYBjPRin4cZLzqxG3/
+rH09jp5zvefMtXEaexiK6QcG0SgrCm4NaCBICKKFjpMzDwVBGGmkQ0gqiuKDBjGO
+1D5DvfkYbNjsvb71rW99a51qvjdXyL+9cztpHlq3IP/Dydn+XOm898ugI2M94BQH
+nT6Yu2CrhiQt94XaKTouchELlPQ9INQIoql2A4kYAgApKPcVp6CZ4AZpgX0jXMao
+oEQSrDAGxLkyrnDaHRNGFahVa2GUWlopJRikECEsYMhXlHmeyzX1EPG0DWCBkOcH
+xCZujpMsw4qTIoGOMLZ/9lGek3cX/P+su3+OjuIAS2mEZi7xiRRKcAaBxsge33Xd
+DJhALRLbwKKTFIyIqlBL4sgZandqUI/7IPM2CStWeOIUNzlaSp8q7SkWGCSV0hoC
+4XtUYi1cLgVXvqZY+lgZHBDlC4CAaEE9nyiJBXeN86rltlXroZojz5y6i4IOFW+z
++qq1OI1VvNVGN6dpNSlmytKBagbfAbL8L1FZhpG2s7IZdZse2g6KyCJVGmbMiAYu
+DzCmrN2B16thDcphhvB8xq0PblYH6tlkrInIMIYMZwyQFzAjkFEgGTGCAVHAlWLc
+ooht2T4ZIgIBMxob49PM+gS2R7FTpJ7VKSpZV2ElEml/DZyhifHeebl8IXdf0z3Z
+EucK9z/432rPe3P+3ytf++2t/J7EvTETHez6tf5Bqa2x/vE9Kx79vbPlLAwfXnai
+5Xih9/rifSXvmf1TjQOP9bwx9tQTt443mr8bTWdfaiw81DH+4c3VJ/evubJ0fOFf
+TYWR1uHWHZeSZY/0/tQyM7X+o08bk+e+3fTw6tO5XRs710wH+TNLLyziTR+fXz72
+ws9Lvn+2Ha2cPKGOXe1uHflk+nZ3fezLWxvWDbwrnz/StBe+6bk2nVycKXXylld6
+i21fj1w+oM62dX/1/pnyFDp2lZe7HnhxdALzHxc9NHrxvXe6Tk+Gh3TPk3cOzt/d
+c2TnhRWLd38+PLg3+ezo03+UFvx5dMtsaSOMT+z74rlVlbW7VmHzMpz6By0NXeg=
+=LCrp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stefanperson
+
+==================================================================
