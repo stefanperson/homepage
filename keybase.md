@@ -19,13 +19,13 @@ To claim this, I am signing this object:
       "username": "stefanperson"
     },
     "merkle_root": {
-      "ctime": 1529527016,
-      "hash": "21c1b06d783b6247ea69bc85a25d96040bbe29727f8f3e4eb77c699e3fdbd18a856baa122c009d3277a5770468ea828d812dee26b0943fef9101f38c5800613e",
-      "hash_meta": "2869f93108af40971ab6c8d4fdc0bc9d7456173b2801dea7231f93affff47175",
-      "seqno": 3113604
+      "ctime": 1529528093,
+      "hash": "f4b14f09d8993a11a9a4da3515a01857df20121756ccbcb7c465495cfe5a7e8051d7c1c405bf79584437f3b77416d1005303124bccf86f77bb1d5a8724ce237d",
+      "hash_meta": "5aba2a2688a43080018f05b292aab48949f721fc1d5d6c017abd5708a22e6069",
+      "seqno": 3113787
     },
     "service": {
-      "entropy": "jeU5R1MNKeqsisNQ9TxOLx2o",
+      "entropy": "Y4G5BWwV5sv7zroz9mB41wnd",
       "name": "github",
       "username": "stefanperson"
     },
@@ -36,10 +36,10 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "2.1.0"
   },
-  "ctime": 1529527035,
+  "ctime": 1529528103,
   "expire_in": 504576000,
-  "prev": "4ac72772078b93e2b2c1908628c3fabd85bff0b7c8a6744ad5192854a5f36c12",
-  "seqno": 89,
+  "prev": "ece0580ef812b37f29a8017315fbb67c8f95843822842b24d470052fb21f9e8b",
+  "seqno": 92,
   "tag": "signature"
 }
 ```
@@ -47,7 +47,7 @@ To claim this, I am signing this object:
 with the key [ASCbeser4lYtAWdtUvjtQUwfe4kQXoNMxDAduGKG1iWfWwo](https://keybase.io/stefanperson), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm3rHq+JWLQFnbVL47UFMH3uJEF6DTMQwHbhihtYln1sKp3BheWxvYWTESpcCWcQgSscncgeLk+KywZCGKMP6vYW/8LfIpnRK1RkoVKXzbBLEIDJFeNReBgFG6IqKXQ4jW3lICWYk5syYydd/19ElEXw9AgHCo3NpZ8RA2HJe1azGcNmSqbUJLq108JduhYXgawHSvouhcT8rVhjiZT6UwXXlu6q/ORX25R5v854s4gEQUnoBRkup8dg9BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC8Q3SH5o+wvUCeiI0ZKg1qGY5b80gLFGpNTLatWPiSeo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm3rHq+JWLQFnbVL47UFMH3uJEF6DTMQwHbhihtYln1sKp3BheWxvYWTESpcCXMQg7OBYDvgSs38pqAFzFfu2fI+VhDgihCsk1HAFL7IfnovEIJHexeiQ83T8aXDowPT5QZ6z0ym1UPVcUmv2ZOAAGn/yAgHCo3NpZ8RAKpTtCkaAQLHX4IbXijcAoTLFgdcVGSWNtPO9RMA5K2LGEOhcKU5G8q5slkF7j0UBZFeVNzDJO/fgg7EQEd5cB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBrJpUVqYqMMMPTWMRkt4gRPJwMcYWUhs8/R5Y4d4Mguo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
